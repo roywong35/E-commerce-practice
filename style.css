@@ -132,7 +132,7 @@ body {
 
 /* Home Page */
 #hero {
-    background-image: url(img/hero4.png);
+    background-image: url(./img/hero4.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -302,7 +302,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(img/banner/b2.jpg);
+    background-image: url(./img/banner/b2.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
