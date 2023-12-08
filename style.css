@@ -629,7 +629,7 @@ footer .copyright {
 /* Blog Page */
 
 #page-header.blog-header {
-    background-image: url(/img/banner/b19.jpg);
+    background-image: url(./img/banner/b19.jpg);
 }
 
 #blog {
@@ -699,7 +699,7 @@ footer .copyright {
 
 /* About Page */
 #page-header.about-header {
-    background-image: url(/img/about/banner.png);
+    background-image: url(./img/about/banner.png);
 }
 
 #about-head {
